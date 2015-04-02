@@ -1,7 +1,7 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 The Mummy will appreciate the lack of humidity.
-But we will have to manufacture our own oxygen.
+But we must manufacture our own oxygen.
 This line breaks things.
 Add this line after adding .dat and .out files.
 Kalan added this line.
